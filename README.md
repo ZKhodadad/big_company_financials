@@ -2,7 +2,7 @@
 
 ![Dashboard Screenshot](./Dashboard.png)
 View the Interactive Tableau Dashboard  
-*https://public.tableau.com/views/Book2_17514148188200/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
+*https://public.tableau.com/views/Book2_17514148188200/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*
 
 This project analyzes a dataset of major global companies to uncover insights into revenue, profitability, efficiency, and global distribution. The goal is to explore how top companies perform across various dimensions and where they are geographically concentrated.
 
@@ -38,6 +38,7 @@ This project analyzes a dataset of major global companies to uncover insights in
 - **Profit efficiency** (profit margin) is led by companies like **Telia Eesti**, **Danske Bank**, and **SEB Bank**, all exceeding 90% average margins.
 - Despite high revenue, some companies (e.g., Sinopec, BP) show relatively lower margins, highlighting operational inefficiencies.
 - The map highlights a dense concentration in **North America and Western Europe**, with sparse representation in **Africa and South America**.
+- **Bombardier Inc.** and **PandaDoc** are operating with negative average profit margins. This could reflect high operating costs, restructuring, or heavy investments. On the other end, **Apple** shows an unusually high average margin of 100.6%, which suggests an artifact in the data
 
 ---
 
