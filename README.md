@@ -70,4 +70,5 @@ Dataset based on global company financial metrics, prepared manually for this pr
 *(https://www.kaggle.com/datasets/marshuu/worlds-biggest-companies-dataset?select=cleaned_biggest_companies.csv)*
 
 ---
-##
+
+> Created as part of a hands-on data analytics project. For feedback or questions, feel free to connect!
