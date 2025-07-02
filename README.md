@@ -1,5 +1,7 @@
 # Global Giants: Financial Performance & Geographic Spread
 
+![Dashboard Screenshot](./Dashboard.png)
+
 This project analyzes a dataset of major global companies to uncover insights into revenue, profitability, efficiency, and global distribution. The goal is to explore how top companies perform across various dimensions and where they are geographically concentrated.
 
 ## Dashboard Features
