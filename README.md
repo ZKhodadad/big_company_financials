@@ -1,6 +1,8 @@
 # Global Giants: Financial Performance & Geographic Spread
 
 ![Dashboard Screenshot](./Dashboard.png)
+[View the Interactive Tableau Dashboard](#)  
+(*https://public.tableau.com/views/Book2_17514148188200/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*)
 
 This project analyzes a dataset of major global companies to uncover insights into revenue, profitability, efficiency, and global distribution. The goal is to explore how top companies perform across various dimensions and where they are geographically concentrated.
 
@@ -13,8 +15,7 @@ This project analyzes a dataset of major global companies to uncover insights in
 - **Map of Global Company Distribution**
 - **Industry Filter** (interactive control to explore all visuals by sector)
 
-🔗 [View the Interactive Tableau Dashboard](#)  
-(*https://public.tableau.com/views/Book2_17514148188200/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link*)
+
 
 ---
 
