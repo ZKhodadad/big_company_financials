@@ -66,8 +66,7 @@ This project analyzes a dataset of major global companies to uncover insights in
 ---
 
 ## Data Source
-
-Dataset based on global company financial metrics, prepared manually for this project.  
+ 
 *(https://www.kaggle.com/datasets/marshuu/worlds-biggest-companies-dataset?select=cleaned_biggest_companies.csv)*
 
 ---
